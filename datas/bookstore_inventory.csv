@@ -1,0 +1,201 @@
+Book ID,Title,Author,Genre,Price,In Stock,Quantity
+1001,Book 1,C. Frame,Statistics,22.76,True,1
+1002,Book 2,I. Lambda,Machine Learning,32.13,True,6
+1003,Book 3,C. Frame,Programming,57.99,False,0
+1004,Book 4,H. Cipher,Web Dev,43.79,False,0
+1005,Book 5,A. Neural,AI,54.56,True,16
+1006,Book 6,I. Lambda,AI,39.74,False,0
+1007,Book 7,J. Script,AI,27.6,True,14
+1008,Book 8,E. Mathers,Math,37.23,False,0
+1009,Book 9,C. Frame,AI,47.29,True,13
+1010,Book 10,I. Lambda,Databases,35.64,False,0
+1011,Book 11,A. Neural,Cybersecurity,59.82,False,0
+1012,Book 12,J. Script,Programming,60.0,False,0
+1013,Book 13,G. Logic,Math,26.08,True,15
+1014,Book 14,J. Script,Machine Learning,45.78,False,0
+1015,Book 15,J. Script,Databases,24.81,True,19
+1016,Book 16,B. Codey,Cybersecurity,55.02,False,0
+1017,Book 17,G. Logic,Data Science,35.63,False,0
+1018,Book 18,A. Neural,Cloud Computing,38.67,False,0
+1019,Book 19,H. Cipher,Machine Learning,42.34,True,6
+1020,Book 20,E. Mathers,Machine Learning,37.98,True,29
+1021,Book 21,E. Mathers,Cloud Computing,19.11,True,14
+1022,Book 22,C. Frame,Statistics,32.08,True,12
+1023,Book 23,I. Lambda,Databases,21.63,False,0
+1024,Book 24,J. Script,Machine Learning,58.71,True,13
+1025,Book 25,G. Logic,Programming,57.56,False,0
+1026,Book 26,I. Lambda,Cybersecurity,40.94,False,0
+1027,Book 27,E. Mathers,Data Science,36.68,False,0
+1028,Book 28,B. Codey,Web Dev,18.82,False,0
+1029,Book 29,E. Mathers,Web Dev,17.1,False,0
+1030,Book 30,I. Lambda,Cybersecurity,40.83,False,0
+1031,Book 31,G. Logic,Math,54.51,True,30
+1032,Book 32,G. Logic,Programming,59.63,True,28
+1033,Book 33,D. Learnwell,Cybersecurity,18.04,True,18
+1034,Book 34,J. Script,Programming,54.4,True,6
+1035,Book 35,G. Logic,Programming,55.03,True,7
+1036,Book 36,H. Cipher,Programming,41.75,True,22
+1037,Book 37,F. Byte,Web Dev,35.34,True,9
+1038,Book 38,F. Byte,Math,56.93,True,26
+1039,Book 39,I. Lambda,AI,49.31,True,10
+1040,Book 40,F. Byte,Cloud Computing,31.01,False,0
+1041,Book 41,E. Mathers,Data Science,34.75,True,2
+1042,Book 42,C. Frame,Machine Learning,59.27,False,0
+1043,Book 43,H. Cipher,Web Dev,48.57,True,11
+1044,Book 44,J. Script,AI,49.59,False,0
+1045,Book 45,E. Mathers,Math,26.09,False,0
+1046,Book 46,A. Neural,Statistics,42.8,True,18
+1047,Book 47,G. Logic,Cloud Computing,22.29,False,0
+1048,Book 48,C. Frame,Programming,43.09,False,0
+1049,Book 49,I. Lambda,Math,16.37,False,0
+1050,Book 50,B. Codey,Cybersecurity,56.38,False,0
+1051,Book 51,I. Lambda,Cloud Computing,26.85,True,9
+1052,Book 52,J. Script,Cloud Computing,52.73,False,0
+1053,Book 53,F. Byte,Math,20.07,True,22
+1054,Book 54,J. Script,Cloud Computing,50.83,True,24
+1055,Book 55,B. Codey,Data Science,19.72,False,0
+1056,Book 56,I. Lambda,Machine Learning,17.37,True,14
+1057,Book 57,F. Byte,Cloud Computing,41.95,False,0
+1058,Book 58,D. Learnwell,Web Dev,51.83,False,0
+1059,Book 59,A. Neural,Programming,35.42,False,0
+1060,Book 60,C. Frame,Math,58.78,False,0
+1061,Book 61,D. Learnwell,AI,35.06,True,29
+1062,Book 62,D. Learnwell,Databases,56.31,True,2
+1063,Book 63,J. Script,Programming,32.0,False,0
+1064,Book 64,J. Script,AI,16.56,True,26
+1065,Book 65,D. Learnwell,Cloud Computing,26.11,False,0
+1066,Book 66,H. Cipher,Databases,26.75,True,20
+1067,Book 67,H. Cipher,Web Dev,47.25,True,26
+1068,Book 68,H. Cipher,Data Science,21.76,True,29
+1069,Book 69,I. Lambda,AI,52.1,True,11
+1070,Book 70,H. Cipher,Databases,58.55,False,0
+1071,Book 71,J. Script,Programming,31.0,True,17
+1072,Book 72,I. Lambda,Databases,58.98,False,0
+1073,Book 73,I. Lambda,Data Science,23.01,True,6
+1074,Book 74,G. Logic,Data Science,20.79,True,3
+1075,Book 75,E. Mathers,Math,55.0,False,0
+1076,Book 76,C. Frame,Cloud Computing,38.34,True,1
+1077,Book 77,F. Byte,Cloud Computing,23.27,False,0
+1078,Book 78,D. Learnwell,Machine Learning,44.03,False,0
+1079,Book 79,H. Cipher,Math,34.54,True,27
+1080,Book 80,G. Logic,Data Science,28.46,True,30
+1081,Book 81,G. Logic,Data Science,35.03,True,8
+1082,Book 82,G. Logic,Cloud Computing,36.4,True,16
+1083,Book 83,B. Codey,Web Dev,49.13,False,0
+1084,Book 84,F. Byte,Data Science,30.74,True,4
+1085,Book 85,F. Byte,Databases,39.8,True,22
+1086,Book 86,I. Lambda,Statistics,42.64,False,0
+1087,Book 87,I. Lambda,Databases,40.89,False,0
+1088,Book 88,B. Codey,Databases,23.68,True,13
+1089,Book 89,J. Script,Statistics,30.1,True,6
+1090,Book 90,I. Lambda,Machine Learning,42.77,False,0
+1091,Book 91,B. Codey,Statistics,56.02,True,11
+1092,Book 92,I. Lambda,Web Dev,38.3,True,25
+1093,Book 93,I. Lambda,Programming,39.98,False,0
+1094,Book 94,H. Cipher,Math,42.72,False,0
+1095,Book 95,D. Learnwell,Web Dev,41.05,True,11
+1096,Book 96,C. Frame,Math,17.38,False,0
+1097,Book 97,J. Script,Cybersecurity,35.66,True,2
+1098,Book 98,F. Byte,AI,43.07,True,22
+1099,Book 99,I. Lambda,Programming,40.37,False,0
+1100,Book 100,I. Lambda,Programming,58.61,True,1
+1101,Book 101,E. Mathers,Math,31.21,False,0
+1102,Book 102,B. Codey,Programming,28.59,False,0
+1103,Book 103,H. Cipher,Web Dev,32.21,False,0
+1104,Book 104,A. Neural,Programming,56.47,True,10
+1105,Book 105,D. Learnwell,Data Science,22.82,True,25
+1106,Book 106,B. Codey,Data Science,29.44,True,21
+1107,Book 107,D. Learnwell,Machine Learning,20.0,False,0
+1108,Book 108,D. Learnwell,Cybersecurity,49.34,False,0
+1109,Book 109,E. Mathers,Web Dev,28.36,True,29
+1110,Book 110,A. Neural,Machine Learning,30.34,True,27
+1111,Book 111,C. Frame,Databases,32.24,False,0
+1112,Book 112,B. Codey,Web Dev,46.88,True,21
+1113,Book 113,G. Logic,Data Science,24.0,True,3
+1114,Book 114,G. Logic,Cloud Computing,47.78,False,0
+1115,Book 115,A. Neural,Cybersecurity,15.91,True,1
+1116,Book 116,G. Logic,Databases,16.74,False,0
+1117,Book 117,G. Logic,Web Dev,44.25,True,27
+1118,Book 118,C. Frame,Math,30.88,True,4
+1119,Book 119,B. Codey,Cloud Computing,47.18,True,12
+1120,Book 120,B. Codey,Math,26.51,True,13
+1121,Book 121,D. Learnwell,Machine Learning,50.7,False,0
+1122,Book 122,H. Cipher,Data Science,31.99,False,0
+1123,Book 123,H. Cipher,Math,18.67,False,0
+1124,Book 124,B. Codey,Cybersecurity,16.4,True,2
+1125,Book 125,B. Codey,Web Dev,21.83,True,6
+1126,Book 126,F. Byte,AI,50.68,True,12
+1127,Book 127,C. Frame,Statistics,56.36,True,27
+1128,Book 128,H. Cipher,Web Dev,39.7,True,13
+1129,Book 129,D. Learnwell,Programming,33.88,True,19
+1130,Book 130,H. Cipher,Cybersecurity,24.89,False,0
+1131,Book 131,J. Script,Math,24.97,True,30
+1132,Book 132,F. Byte,Web Dev,46.61,False,0
+1133,Book 133,I. Lambda,Machine Learning,17.73,True,15
+1134,Book 134,C. Frame,Statistics,55.66,False,0
+1135,Book 135,F. Byte,Programming,43.34,True,11
+1136,Book 136,D. Learnwell,Databases,29.32,True,11
+1137,Book 137,I. Lambda,Programming,23.6,True,3
+1138,Book 138,I. Lambda,AI,50.96,True,13
+1139,Book 139,B. Codey,Programming,54.3,True,22
+1140,Book 140,G. Logic,Statistics,26.19,False,0
+1141,Book 141,J. Script,Statistics,19.53,False,0
+1142,Book 142,J. Script,Programming,22.71,False,0
+1143,Book 143,B. Codey,Cloud Computing,55.82,True,26
+1144,Book 144,B. Codey,Cybersecurity,23.24,False,0
+1145,Book 145,I. Lambda,AI,57.41,True,4
+1146,Book 146,G. Logic,Web Dev,32.17,True,26
+1147,Book 147,G. Logic,Programming,38.7,False,0
+1148,Book 148,B. Codey,Programming,59.53,False,0
+1149,Book 149,C. Frame,Web Dev,23.25,True,19
+1150,Book 150,C. Frame,Cybersecurity,57.1,False,0
+1151,Book 151,J. Script,Programming,27.01,True,26
+1152,Book 152,J. Script,Cloud Computing,53.63,False,0
+1153,Book 153,I. Lambda,Databases,15.6,True,14
+1154,Book 154,B. Codey,Web Dev,48.31,True,23
+1155,Book 155,A. Neural,Cybersecurity,54.46,True,30
+1156,Book 156,F. Byte,Web Dev,23.79,False,0
+1157,Book 157,H. Cipher,Data Science,44.99,True,12
+1158,Book 158,I. Lambda,Math,44.82,False,0
+1159,Book 159,F. Byte,AI,26.37,True,4
+1160,Book 160,A. Neural,Cybersecurity,37.51,True,19
+1161,Book 161,I. Lambda,Cloud Computing,54.23,False,0
+1162,Book 162,A. Neural,Web Dev,50.44,True,8
+1163,Book 163,D. Learnwell,Cybersecurity,58.07,True,29
+1164,Book 164,J. Script,Statistics,53.06,True,25
+1165,Book 165,C. Frame,Machine Learning,43.64,False,0
+1166,Book 166,G. Logic,Cybersecurity,50.63,False,0
+1167,Book 167,A. Neural,Cloud Computing,40.81,False,0
+1168,Book 168,B. Codey,Statistics,51.97,True,9
+1169,Book 169,I. Lambda,Math,34.35,True,28
+1170,Book 170,F. Byte,Data Science,25.04,False,0
+1171,Book 171,G. Logic,Math,19.94,True,1
+1172,Book 172,A. Neural,Statistics,44.14,False,0
+1173,Book 173,A. Neural,Math,20.25,True,25
+1174,Book 174,F. Byte,Math,44.83,True,27
+1175,Book 175,C. Frame,Web Dev,44.49,True,10
+1176,Book 176,F. Byte,Machine Learning,53.73,True,30
+1177,Book 177,I. Lambda,Programming,33.56,False,0
+1178,Book 178,E. Mathers,Databases,44.96,False,0
+1179,Book 179,E. Mathers,Math,46.53,True,24
+1180,Book 180,G. Logic,Cloud Computing,47.07,True,6
+1181,Book 181,D. Learnwell,Cybersecurity,48.57,True,17
+1182,Book 182,J. Script,Cloud Computing,33.44,True,17
+1183,Book 183,J. Script,Machine Learning,16.43,True,10
+1184,Book 184,E. Mathers,Web Dev,35.76,False,0
+1185,Book 185,I. Lambda,Cloud Computing,20.99,False,0
+1186,Book 186,H. Cipher,Web Dev,38.01,False,0
+1187,Book 187,D. Learnwell,Cybersecurity,44.48,True,18
+1188,Book 188,G. Logic,Databases,32.78,False,0
+1189,Book 189,E. Mathers,Statistics,41.07,False,0
+1190,Book 190,C. Frame,Machine Learning,54.85,True,19
+1191,Book 191,B. Codey,Statistics,18.32,False,0
+1192,Book 192,C. Frame,AI,45.05,False,0
+1193,Book 193,A. Neural,Statistics,47.44,True,5
+1194,Book 194,B. Codey,Math,41.35,True,10
+1195,Book 195,A. Neural,Web Dev,22.39,False,0
+1196,Book 196,D. Learnwell,Machine Learning,28.39,False,0
+1197,Book 197,J. Script,Machine Learning,17.85,True,29
+1198,Book 198,J. Script,Machine Learning,23.14,False,0
+1199,Book 199,C. Frame,Cloud Computing,41.63,False,0
+1200,Book 200,J. Script,Programming,20.85,True,24
